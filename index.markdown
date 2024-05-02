@@ -16,15 +16,15 @@ We believe in the power of innovation to make a difference in people’s lives, 
 - **Social and Technological Impact**: Choosing unconventional methods to address complex problems in ways that traditional methods have not. This strategy can lead to breakthroughs that not only advance technology but also positively impact society by removing barriers, enhancing access to information, and empowering communities.
 - **Long-Term Vision**: Pursuing this path often requires a long-term vision, as the benefits of pioneering efforts are not always immediately apparent. It reflects a deep commitment to enduring values and goals, rather than short-term gains.
 
-Throughout life, I've always been more inclined to choose the less crowded path. Not because it's easy, but because I perfer to carve my own way—not just following the herd, but forging one's own journey, making one's own decisions, and finding happiness in discovering things that others might overlook. I consider it's about seeking uniqueness and authenticity, even if it means facing more challenges and failures along the way.
+We'll always been more inclined to choose the less crowded path. Not because it's easy, but because we perfer to carve our own way—not just following the herd, but forging one's own journey, making one's own decisions, and finding happiness in discovering things that others might overlook. We consider it's about seeking uniqueness and authenticity, even if it means facing more challenges and failures along the way.
 
 # Projects
 
-Each project under [Unpopular Ideas LLC](https://upop.io) is a step towards a more informed and connected society and is designed with a commitment to creating meaningful, user-centric technology solutions. As we continue to innovate and expand, the goal remains to create technology that serves as a bridge to knowledge, empowerment, and positive change in society."
+Each project under [Unpopular Ideas LLC](https://upop.io) is a step towards a more informed and connected society and is designed with a commitment to creating meaningful, user-centric technology solutions. As we continue to innovate and expand, the goal remains to create technology that serves as a bridge to knowledge, empowerment, and positive change in society.
 
 ## VOTETRACK.US
  
-[Votetrack.us](https://votetrack.us), initially named Project *K'iche'*, is designed to enhance transparency and accessibility in the legislative process by leveraging AI technology. Our aim is to make complex political information understandable and accessible for all citizens, including non-English speaking minority groups. The platform simplifies congressional votes, bills, amendments, and provides insightful analyses of representatives' voting records
+[Votetrack.us](https://votetrack.us), initially named Project *K'iche'*, is designed to enhance transparency and accessibility in the legislative process by leveraging AI technology. Our aim is to make complex political information understandable and accessible for all citizens, including non-English speaking minority groups. The platform simplifies congressional votes, bills, amendments, and provides insightful analyses of representatives' voting records.
 
 #### Key Features:
 
@@ -44,11 +44,21 @@ By democratizing access to political information, Project *K'iche'* empowers cit
 - **Global Access**: Designed to unblock geo-restricted content efficiently and safely, Uplinks provides users with the freedom to access a wide range of websites and services. It offers competitive pricing plans, including personal, family and friends plans, alongside a flexible pay-as-you-go option.
 - **No Installation Required**: Uplinks does not require downloading or installing any software and is compatible with all built-in VPN systems on major operating systems such as Windows, macOS, iOS, and Android. It also boasts a high-performing premium network with over 100 points of presence globally, ensuring fast and stable connections. The service is particularly easy to set up for family and friends and can be quickly used on borrowed devices.
 - **Instant Connectivity**: Offers instant connectivity across unlimited devices without the need to install any apps, making it extremely easy to set up and use on both mobile and PC. It features a top-level secure IKEv2 protocol that ensures all transmitted data remains private and secure, utilizing a combination of four cipher algorithms that are nearly impossible to break.
+- **Educational Access**: Committed to supporting education, Uplinks.net offers free access to a curated list of educational websites, including Google, Wikipedia. This feature is tailored for students and educators, providing essential tools for learning and research without cost.
+- **Temporary Full Access**: Recognizing the need for flexible internet solutions, Uplinks.net also offers a free, unrestricted internet service at [free.uplinks.net](https://free.uplinks.net). This service is available to all users for a limited time period, ensuring temporary access to the full internet when needed most. Perfect for individuals requiring immediate access but facing financial constraints.
 
-By combining ease of use with the highest levels of security and connectivity, we're committed to empowering users worldwide with the tools they need to safely and efficiently navigate the digital world.
+By combining ease of use with the highest levels of security and connectivity, we are dedicated to providing users worldwide with the tools they need to access information safely, unrestrictedly, and affordably.
 
 ## Company
 
 Unpopular Ideas LLC is a company founded by [Tomasen](https://github.com/tomasen) to support the development of projects that can help the world become a better place.
 
 We are not currently hiring, but if you're interested in our projects and have suggestions, feel free to reach out to me at tomasen@gmail.com
+
+## Links
+
+- [tomasen.org](https://tomasen.org)
+- [Linkedin](https://www.linkedin.com/in/tomasen1/)
+- [Medium](https://story.tomasen.org)
+- [X/Twitter](https://twitter.com/TOMAS3N)
+- [SPlayer.org](https://splayer.org)
