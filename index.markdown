@@ -1,22 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
 
 # The Unpopular Way
 
-We believe in the power of innovation to make a difference in people’s lives, and our passion lies in crafting new solutions that not only solve problems but also enrich people's life. At Unpopular Ideas LLC, the mission is to find innovative solutions in ways that enhance understanding and grant access to resources, or remove barriers that limit opportunities. 
+We believe in the power of innovation to make a difference in people’s lives, and our passion lies in crafting new solutions that not only solve problems but also enrich people's life. At Unpopular Ideas LLC, the mission is to find innovative solutions in ways that enhance understanding between people and groups, grant access to resources, and remove barriers that limit opportunities. 
 
 #### Commitments and Approaches:
 
-- **Innovation Over Conformity**: Prioritizing innovative solutions over safer, more conventional paths. Demonstrating a willingness to experiment and develop new ideas that may not yet be mainstream but have the potential to offer greater rewards.
-- **Risk and Reward**: This approach inherently involves taking risks. Venturing into less explored territories showcases courage and a forward-thinking attitude, accepting the challenges that come with innovation in exchange for the opportunity to make significant impacts.
-- **Differentiation**: Embracing the path less traveled sets the company apart from competitors. It highlights a distinctive strategy and philosophy, appealing to customers, partners, and investors who value creativity and originality.
-- **Social and Technological Impact**: Choosing unconventional methods to address complex problems in ways that traditional methods have not. This strategy can lead to breakthroughs that not only advance technology but also positively impact society by removing barriers, enhancing access to information, and empowering communities.
+- **Innovation Over Conformity**: Prioritizing innovative approaches over conventional paths, committed to experiment and develop new ideas that may not be mainstream but have the potential to offer greater improvements on life.
+- **Risk and Reward**: Daring to venture into less explored territories embodies courage and a forward-thinking attitude, welcoming the challenges that accompany innovation in pursuit of the opportunity to create significant impacts.
+- **Differentiation**: Embracing the path less traveled not only sets our company apart from competitors but also serves as a reminder that we do not overlook opportunities due to short-sightedness, profit-driven thinking, or fear of the unknown.
+- **Social and Technological Impact**: Choosing unconventional methods to address complex problems in ways that traditional methods have not. We are convinced that this approach will lead to breakthroughs that not only advance technology but also positively impact society by removing barriers, enhancing access to information, and empowering communities.
 - **Long-Term Vision**: Pursuing this path often requires a long-term vision, as the benefits of pioneering efforts are not always immediately apparent. It reflects a deep commitment to enduring values and goals, rather than short-term gains.
 
-We'll always been more inclined to choose the less crowded path. Not because it's easy, but because we perfer to carve our own way—not just following the herd, but forging one's own journey, making one's own decisions, and finding happiness in discovering things that others might overlook. We consider it's about seeking uniqueness and authenticity, even if it means facing more challenges and failures along the way.
+We'll always be more inclined to choose the unpopular path. Not because it's easy, but because we prefer to carve our own way—not just following the herd, but forging our own journey, making our own decisions, and finding happiness in discovering things that others might overlook. We believe this is the truly efficient, dynamic way forward as a whole.
 
 # Projects
 
@@ -59,6 +57,7 @@ We are not currently hiring, but if you're interested in our projects and have s
 
 - [tomasen.org](https://tomasen.org)
 - [Linkedin](https://www.linkedin.com/in/tomasen1/)
+- [Github](https://github.com/tomasen)
 - [Medium](https://story.tomasen.org)
 - [X/Twitter](https://twitter.com/TOMAS3N)
 - [SPlayer.org](https://splayer.org)
