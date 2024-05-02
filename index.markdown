@@ -6,7 +6,7 @@
 
 # The Unpopular Way
 
-I believe in the power of innovation to make a difference in people’s lives, and my passion lies in crafting new solutions that not only solve problems but also enrich people's life. At Unpopular Ideas LLC, the mission is to find innovative solutions in ways that enhance understanding and grant access to resources, or remove barriers that limit opportunities. 
+We believe in the power of innovation to make a difference in people’s lives, and our passion lies in crafting new solutions that not only solve problems but also enrich people's life. At Unpopular Ideas LLC, the mission is to find innovative solutions in ways that enhance understanding and grant access to resources, or remove barriers that limit opportunities. 
 
 #### Commitments and Approaches:
 
