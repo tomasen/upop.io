@@ -9,9 +9,9 @@ We believe in the power of innovation to make a difference in people’s lives, 
 #### Commitments and Approaches:
 
 - **Innovation Over Conformity**: Prioritizing innovative approaches over conventional paths, committed to experiment and develop new ideas that may not be mainstream but have the potential to offer greater improvements on life.
-- **Risk and Reward**: Daring to venture into less explored territories embodies courage and a forward-thinking attitude, welcoming the challenges that accompany innovation in pursuit of the opportunity to create significant impacts.
+- **Risk and Reward**: Daring to venture into less explored territories, welcoming the challenges that accompany innovation in pursuit of the opportunity to create significant impacts.
 - **Differentiation**: Embracing the path less traveled not only sets our company apart from competitors but also serves as a reminder that we do not overlook opportunities due to short-sightedness, profit-driven thinking, or fear of the unknown.
-- **Social and Technological Impact**: Choosing unconventional methods to address complex problems in ways that traditional methods have not. We are convinced that this approach will lead to breakthroughs that not only advance technology but also positively impact society by removing barriers, enhancing access to information, and empowering communities.
+- **Social and Technological Impact**: We are convinced that choosing unconventional methods to address complex problems in ways that traditional methods have not will lead to breakthroughs that not only advance technology but more importantly impact society by removing barriers, enhancing access to information, and empowering communities.
 - **Long-Term Vision**: Pursuing this path often requires a long-term vision, as the benefits of pioneering efforts are not always immediately apparent. It reflects a deep commitment to enduring values and goals, rather than short-term gains.
 
 We'll always be more inclined to choose the unpopular path. Not because it's easy, but because we prefer to carve our own way—not just following the herd, but forging our own journey, making our own decisions, and finding happiness in discovering things that others might overlook. We believe this is the truly efficient, dynamic way forward as a whole.
