@@ -4,7 +4,7 @@
 
 # The Unpopular Way
 
-We believe in the power of innovation to make a difference in people's lives. Our passion lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
+We believe the power of innovation to make a difference. Our passion lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
 
 #### Commitments and Approaches:
 
