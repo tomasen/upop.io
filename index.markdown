@@ -4,14 +4,14 @@
 
 # The Unpopular Way
 
-We believe the power of innovation to make a difference. Our passion lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
+We believe the power of innovation. Our passion lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
 
 #### Commitments and Approaches:
 
 - **Innovation Over Conformity**: Prioritizing innovative approaches over conventional paths, daring to venture into less explored territories, willing to experiment and take the risks, we're committed to develop new ideas that may not be mainstream but have the potential to offer great improvements on life.
 - **Differentiation**: Embracing the path less traveled not only sets our company apart from competitors but also serves as a reminder that we do not overlook opportunities due to short-sightedness, profit-driven thinking, or fear of the unknown.
 - **Social and Technological Impact**: We are convinced that driving innovations will also foster a more inclusive and connected world. By harnessing the power of technology, we aim to break down echo chambers, give voice to silenced perspectives, and create opportunities for progress and growth.
-- **Long-Term Vision**: Pursuing innovative paths often requires a patient approach, as the benefits of pioneering efforts are not always immediately apparent, a long-term perspective helps us to accomplish our enduring values and goals, prioritizing sustainable impact over immediate gains.
+- **Patience is a Virtue**: Pursuing innovative paths often requires a patient approach, as the benefits of progressive efforts usually take time to unfold. Adopting a long-term perspective and prioritizing lasting impact over immediate gains are the ways we choose to uphold our values and accomplish our goals.
 
 We'll always be more inclined to choose the unpopular path. Not because it's easy, but because we prefer to carve our own way—not just following the herd, but forging our own journey, making our own decisions, and finding happiness in discovering things that others might overlook. We believe this is the truly efficient, dynamic way forward as a whole.
 
