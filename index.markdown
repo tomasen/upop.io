@@ -4,7 +4,7 @@
 
 # The Unpopular Way
 
-We believe the power of innovation. Our passion lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
+We measure our success by the positive impact we have on others. Our commitment lies in crafting new solutions that solve problems and enrich people’s lives, especially in ways that enhance understanding between individuals and groups, grant access to resources, and remove barriers that limit opportunities.
 
 #### Commitments and Approaches:
 
