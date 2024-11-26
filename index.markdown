@@ -30,7 +30,7 @@ Each project under [Unpopular Ideas LLC](https://upop.io) is a step towards a mo
 - **Bill Version Tracking**: Our platform tracks changes across different versions of the same bill, presenting them in an easy-to-understand format. This allows users to follow the evolution of legislation and understand the implications of each amendment.
 - **Clear Voting Visualization**: We provide a user-friendly interface that clearly displays voting patterns, showing how individual representatives or parties vote on specific issues. This feature enhances transparency and helps users make informed decisions.
 
-By democratizing access to political information, Project *K'iche'* empowers citizens to actively participate in their governance, fostering a more informed and engaged electorate. We believe our solution aligns with Microsoft's commitment to leveraging technology for social impact and are seeking funding to further develop and scale our platform.
+By democratizing access to political information, Project *K'iche'* empowers citizens to actively participate in their governance, fostering a more informed and engaged electorate. We believe our solution aligns with our commitment to leveraging technology for social impact and are seeking funding to further develop and scale our platform.
 
 ## Uplinks.net
 
@@ -41,8 +41,8 @@ By democratizing access to political information, Project *K'iche'* empowers cit
 - **Global Access**: Designed to unblock geo-restricted content efficiently and safely, Uplinks provides users with the freedom to access a wide range of websites and services. It offers competitive pricing plans, including personal, family and friends plans, alongside a flexible pay-as-you-go option.
 - **No Installation Required**: Uplinks does not require downloading or installing any software and is compatible with all built-in VPN systems on major operating systems such as Windows, macOS, iOS, and Android. It also boasts a high-performing premium network with over 100 points of presence globally, ensuring fast and stable connections. The service is particularly easy to set up for family and friends and can be quickly used on borrowed devices.
 - **Instant Connectivity**: Offers instant connectivity across unlimited devices without the need to install any apps, making it extremely easy to set up and use on both mobile and PC. It features a top-level secure IKEv2 protocol that ensures all transmitted data remains private and secure, utilizing a combination of four cipher algorithms that are nearly impossible to break.
-- **Educational Access**: Committed to supporting education, Uplinks.net offers free access to a curated list of educational websites, including Google, Wikipedia. This feature is tailored for students and educators, providing essential tools for learning and research without cost.
-- **Temporary Full Access**: Recognizing the need for flexible internet solutions, Uplinks.net also offers a free, unrestricted internet service at [free.uplinks.net](https://free.uplinks.net). This service is available to all users for a limited time period, ensuring temporary access to the full internet when needed most. Perfect for individuals requiring immediate access but facing financial constraints.
+- **Free Educational Access**: Committed to supporting education, Uplinks.net offers free access to a curated list of educational websites, including Google, Wikipedia. This feature is tailored for students and educators, providing essential tools for learning and research without cost.
+- **Free Contingency Access**: Recognizing the need for flexible internet solutions, Uplinks.net also offers a free, unrestricted internet service at [free.uplinks.net](https://free.uplinks.net). This service is available to all users for a limited time period, ensuring temporary access to the full internet when needed most. Perfect for individuals requiring immediate access but facing financial constraints.
 
 By combining ease of use with the highest levels of security and connectivity, we are dedicated to providing users worldwide with the tools they need to access information safely, unrestrictedly, and affordably.
 
@@ -58,5 +58,6 @@ We are not currently hiring, but if you're interested in our projects and have s
 - [Linkedin](https://www.linkedin.com/in/tomasen1/)
 - [Github](https://github.com/tomasen)
 - [Medium](https://story.tomasen.org)
-- [X/Twitter](https://twitter.com/TOMAS3N)
-- [SPlayer.org](https://splayer.org)
+- [Threads](https://www.threads.net/@tomasen)
+- [SPlayer](https://splayer.org)
+- [Sagittarius AI](https://sagittarius.ai)
