@@ -19,9 +19,9 @@ We'll always be more inclined to choose the unpopular path. Not because it's eas
 
 Each project under [Unpopular Ideas LLC](https://upop.io) is a step towards a more informed and connected society and is designed with a commitment to creating meaningful, user-centric technology solutions. As we continue to innovate and expand, the goal remains to create technology that serves as a bridge to knowledge, empowerment, and positive change in society.
 
-## VOTETRACK.US
+## KICHE.US
  
-[Votetrack.us](https://votetrack.us), initially named Project *K'iche'*, is designed to enhance transparency and accessibility in the legislative process by leveraging AI technology. Our aim is to make complex political information understandable and accessible for all citizens, including non-English speaking minority groups. The platform simplifies congressional votes, bills, amendments, and provides insightful analyses of representatives' voting records.
+[kiche.us](https://kiche.us), *K'iche'*, is designed to enhance transparency and accessibility in the legislative process by leveraging AI technology. Our aim is to make complex political information understandable and accessible for all citizens, including non-English speaking minority groups. The platform simplifies congressional votes, bills, amendments, and provides insightful analyses of representatives' voting records.
 
 #### Key Features:
 
